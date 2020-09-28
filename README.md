@@ -12,7 +12,7 @@ make a <form> capable of collecting the correct information so that the newly cr
 ## Installation
 
 ```bash
-
+git clone https://github.com/SenayYakut/Form-a-Story.git
 ```
 
 ## Usage
