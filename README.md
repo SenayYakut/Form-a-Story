@@ -17,10 +17,7 @@ git clone https://github.com/SenayYakut/Form-a-Story.git
 
 ## Usage
 
-```HTML5
-
-
-```
+go to the website URL https://senayyakut.github.io/Form-a-Story/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
